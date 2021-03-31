@@ -219,11 +219,3 @@ body {
 .widget-link:active {
   box-shadow: inset 0px 2px 5px 0px #ff6b0896;
 }
-
-.photo:hover {
-  animation: swing 1s;
-}
-
-.widget:hover {
-  animation: heartBeat 1s;
-}
